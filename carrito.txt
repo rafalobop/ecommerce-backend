@@ -2,17 +2,12 @@
   {
     "id": "783ff665-5bb2-4b5b-bf6c-cd01dcb3dbe6",
     "timestamp": "2022-06-08T12:39:04.912Z",
+    "productos": []
+  },
+  {
+    "id": "495ffb52-cef3-458b-853e-076af83543cd",
+    "timestamp": "2022-06-08T13:11:20.909Z",
     "productos": [
-      {
-        "nombre": "lapicera",
-        "descripcion": "Una lapicera azul",
-        "codigo": 41,
-        "url": "https://img2.freepng.es/20180314/fpw/kisspng-ballpoint-pen-cobalt-blue-promotional-pens-5aa98acacf0441.0216057415210605548479.jpg",
-        "precio": 35,
-        "stock": 12,
-        "timestamp": "2022-06-08T11:25:21.305Z",
-        "id": "1edef75a-3e08-440a-b0a8-237ca74b4a3a"
-      },
       {
         "nombre": "felpon",
         "descripcion": "Una lapicera azul",
@@ -25,5 +20,9 @@
       }
     ]
   },
-  
+  {
+    "id": "fc030c65-c76a-48c4-840d-1f9928eeff7f",
+    "timestamp": "2022-06-08T13:11:30.249Z",
+    "productos": []
+  }
 ]
